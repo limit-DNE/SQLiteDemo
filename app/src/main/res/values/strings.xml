@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SQLite Demo</string>
+    <string name="name">Please Enter Your Name</string>
+    <string name="password">Please Enter Your Password</string>
+    <string name="email">Please Enter Your Email</string>
+    <string name="name_hint">Name</string>
+    <string name="password_hint">Password</string>
+    <string name="email_hint">Email</string>
+    <string name="add">Add</string>
+    <string name="view">View All</string>
+    <string name="more">More Options</string>
+    <string name="update">Update Data</string>
+    <string name="delete">Delete Data</string>
+    <string name="getID">Enter Name to Delete or Update</string>
+    <string name="id">Name</string>
+</resources>
